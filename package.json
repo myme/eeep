@@ -1,0 +1,9 @@
+{
+  "name": "eeep",
+  "version": "0.1.0",
+  "description": "Query the OS for IP interfaces",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Martin Øinæs Myrseth <myrseth@gmail.com>",
+  "license": "MIT"
+}
